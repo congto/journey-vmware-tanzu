@@ -16,6 +16,7 @@ A three-part initiative **The Journey to VMware Tanzu** held at VMUG Bulgaria be
 * Expected length: 1:30 - 2:00 h
 * Yet to be uploaded
 
+## Supporting files
 Each folder (part-x) contains files stored in the following structure:
 * *demo-files* folder contains the sample configuration files
 * *docker-images* folder and its sub-folders contain the files necessary to produce the referred container images. You may use your own images, but keep in mind that you should adjust the configuration files as well
@@ -25,4 +26,5 @@ Each folder (part-x) contains files stored in the following structure:
 
 For better experience load the *demo-script.txt* file in an editor with an integrated terminal (like Visual Studio Code, Kate, Atom, Sublime, etc.), highlight and execute commands one by one, and check the results.
 
+## Additional information
 This is inspired and based on the **k8s-intro** initiative of mine. The supporting materials and all related information can be found at https://github.com/shekeriev/k8s-intro
