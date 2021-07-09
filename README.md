@@ -23,6 +23,7 @@ Each folder (part-x) contains files stored in the following structure:
 * *exercise-files* folder contains a set of configuration files suitable for a guided exercise
 * *demo-script.txt* file contains the commands used during the demo
 * *slides.pdf* file contains the slides of the presentation
+* *video.txt* file contains the URL of the published video of the event
 
 For better experience load the *demo-script.txt* file in an editor with an integrated terminal (like Visual Studio Code, Kate, Atom, Sublime, etc.), highlight and execute commands one by one, and check the results.
 
