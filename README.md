@@ -4,17 +4,17 @@ A three-part initiative **The Journey to VMware Tanzu** held at VMUG Bulgaria be
 ## Part 1: Getting to know Kubernetes with Minikube 
 * Held on: 2021.07.06 / 18:30 / on-line
 * Expected length: 1:30 - 2:00 h
-* Updated on: 2021.07.06
+* Updated on: 2021.07.07
 
 ## Part 2: Deploying a small Kubernetes cluster 
 * Held on: 2021.07.13 / 18:30 / on-line
 * Expected length: 1:30 - 2:00 h
-* Updated on: 2021.07.13
+* Updated on: 2021.07.14
 
 ## Part 3: Deploying a basic VMware Tanzu infrastructure 
-* Will take place on: 2021.07.20 / 18:30 / on-line
+* Held on: 2021.07.20 / 18:30 / on-line
 * Expected length: 1:30 - 2:00 h
-* Yet to be uploaded
+* Updated on: 2021.07.20
 
 ## Supporting files
 Each folder (part-x) contains files stored in the following structure:
