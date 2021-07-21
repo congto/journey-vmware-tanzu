@@ -1,6 +1,8 @@
 # The Journey to VMware Tanzu
 A three-part initiative **The Journey to VMware Tanzu** held at VMUG Bulgaria between 06.07.2021 and 20.07.2021
 
+Please, fill the feedback form https://forms.gle/BZ96tYx7X9uherQ69
+
 ## Part 1: Getting to know Kubernetes with Minikube 
 * Held on: 2021.07.06 / 18:30 / on-line
 * Expected length: 1:30 - 2:00 h
